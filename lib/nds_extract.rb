@@ -7,7 +7,7 @@ totals = {}
 
 while director_index < nds.length do 
   director_name = nds[director_index[:name]]
-  totals [director_name] = 0 
+  totals[director_name] = 0 
   movie_index = 0 
   
   while_movie_index < nds[director_index][:movies].length do 
