@@ -16,5 +16,5 @@ while director_index < nds.length do
   end 
   director_index += 1 
 end
-
+totals
 end
